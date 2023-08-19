@@ -1,9 +1,17 @@
 import 'package:flutter/material.dart';
 
-class CountController extends ChangeNotifier{
-  int count = 0;
-  void updateCount(){
-    count++;
+class CheckController extends ChangeNotifier{
+  bool? check;
+  int index = 0;
+
+  void updateCheck(bool value){
+    check = value;
     notifyListeners();
   }
+
+  void updateIndex(){
+    index++;
+    notifyListeners();
+  }
+
 }

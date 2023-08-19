@@ -39,6 +39,14 @@ dependencies:
   flutter_chess_board: ^1.0.0+3
   restart_app: ^1.2.1
   provider: ^6.0.5
+  
+  # chess_board_widget: ^0.1.0+6
+  # chess_lib: ^0.1.0+2
+  # simple_chess_board: 
+  squares: ^1.2.1
+  bishop:
+  square_bishop:
+
 
 dev_dependencies:
   flutter_test:

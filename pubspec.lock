@@ -9,6 +9,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+  badges:
+    dependency: transitive
+    description:
+      name: badges
+      sha256: "6e7f3ec561ec08f47f912cfe349d4a1707afdc8dda271e17b046aa6d42c89e77"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.1"
+  bishop:
+    dependency: "direct main"
+    description:
+      name: bishop
+      sha256: "0b6581310e3e7f4769499d1e0537972914de294dc12d6d667529c87c2d975f1c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -65,6 +81,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
+  equatable:
+    dependency: transitive
+    description:
+      name: equatable
+      sha256: c2b87cb7756efdf69892005af546c56c0b5037f54d2a88269b4f347a505e3ca2
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.5"
   fake_async:
     dependency: transitive
     description:
@@ -197,6 +221,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  square_bishop:
+    dependency: "direct main"
+    description:
+      name: square_bishop
+      sha256: a83eca50f036a98154d25fbc15446c4245d895cc9e57385fdb1d2d8754dc1ebc
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.17"
+  squares:
+    dependency: "direct main"
+    description:
+      name: squares
+      sha256: "5496b2907fceab92d1190625847cda51d84bb5a5364bd1af199b82ed2fdbf68e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.1"
   stack_trace:
     dependency: transitive
     description:
